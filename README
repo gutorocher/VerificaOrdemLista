@@ -1,0 +1,9 @@
+=================================================== 
+Verificador de Sequência númerica:
+===================================================
+Funcionalidade do Problema em questão
+    ->verificar se no vetor estão seguinte condições:
+        - ordem crescente
+        - ordem decrescente, 
+        - todos elementos são iguais 
+        - elementos desordenado
